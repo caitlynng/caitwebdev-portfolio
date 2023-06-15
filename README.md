@@ -5,4 +5,4 @@ Hi there, I'm Caitlyn, a Full Stack Web Developer based in San Jose, California.
 ### Get in touch with me at:
 
 [Email](mailto:caitlyn6633@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/caitlynng/)
+[LinkedIn](https://www.linkedin.com/in/caitlyn6633/)
